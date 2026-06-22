@@ -141,7 +141,7 @@ pip install -r requirements.txt
 4. Execute o arquivo principal:
 
 ```bash
-cd "Ciclo de postagem compartilhado"
+cd Ciclo de postagem compartilhado
 python app_ciclo_postagem.py
 ```
 
