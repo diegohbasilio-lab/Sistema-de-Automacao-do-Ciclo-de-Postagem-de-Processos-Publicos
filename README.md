@@ -150,15 +150,35 @@ Também é possível iniciar o sistema pelo arquivo `.bat`, caso esteja disponí
 
 ## Demonstração
 
-Em breve será adicionado um vídeo demonstrativo do sistema funcionando com dados fictícios.
+### Interface principal do sistema
 
-Sugestão de demonstração:
+![Interface principal do sistema](assets/App%20ciclo%20de%20postagem.png)
 
-* abertura do sistema;
-* execução dos robôs por botão;
-* exibição dos logs;
-* organização automática dos documentos;
-* fluxo completo com arquivos simulados.
+A interface principal centraliza os robôs e permite executar as etapas do ciclo de postagem por meio de botões, facilitando o uso da automação mesmo por usuários sem conhecimento técnico.
+
+---
+
+### Estrutura de pastas do sistema
+
+![Estrutura de pastas do sistema](assets/App%20ciclo%20de%20postagem%20pastas.png)
+
+A estrutura de pastas organiza os módulos do projeto, separando scripts, robôs, tutoriais, arquivos auxiliares e componentes responsáveis por cada etapa da automação.
+
+---
+
+### Organização dos arquivos e documentos
+
+![Organização dos arquivos e documentos](assets/Pastas.png)
+
+O sistema trabalha com organização automática dos documentos, separando arquivos em pastas específicas conforme a etapa do processo, facilitando a conferência e reduzindo retrabalho manual.
+
+---
+
+### Tutoriais técnicos e de usuário
+
+![Tutoriais disponíveis](assets/Tutoriais.png)
+
+O projeto também conta com tutoriais de apoio, facilitando a manutenção, execução e entendimento do sistema por outros usuários ou desenvolvedores.
 
 ---
 
