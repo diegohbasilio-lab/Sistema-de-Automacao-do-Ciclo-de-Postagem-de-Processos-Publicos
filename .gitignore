@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+Downloads/
+logs/
+*.pdf
+*.docx
+*.xlsx
+dados_reais/
+arquivos_reais/
