@@ -4,6 +4,8 @@ Sistema desenvolvido em Python para automatizar etapas repetitivas de um fluxo a
 
 O projeto foi criado com o objetivo de reduzir retrabalho, padronizar processos, aumentar a produtividade e centralizar tarefas operacionais em uma interface simples, executada por botões.
 
+> **Aviso:** Este projeto foi adaptado para fins de portfólio. Dados reais, credenciais, documentos oficiais, caminhos internos, CPF, CNPJ e números de processos foram removidos ou substituídos por exemplos fictícios.
+
 ---
 
 ## Visão Geral
@@ -11,6 +13,34 @@ O projeto foi criado com o objetivo de reduzir retrabalho, padronizar processos,
 Este sistema funciona como um painel de automação para execução de robôs responsáveis por diferentes etapas do ciclo de postagem de processos.
 
 A proposta é transformar uma rotina manual e repetitiva em um fluxo mais rápido, organizado e padronizado, permitindo que o usuário execute etapas complexas com poucos cliques.
+
+---
+
+## Demonstração Visual
+
+Abaixo estão algumas telas do sistema e da estrutura do projeto, demonstrando a interface principal, a organização das pastas, os arquivos gerados e os tutoriais disponíveis.
+
+### Interface principal do sistema
+
+A interface principal centraliza os robôs e permite executar as etapas do ciclo de postagem por meio de botões, facilitando o uso da automação mesmo por usuários sem conhecimento técnico.
+
+---
+
+### Estrutura de pastas do sistema
+
+A estrutura de pastas organiza os módulos do projeto, separando scripts, robôs, tutoriais, arquivos auxiliares e componentes responsáveis por cada etapa da automação.
+
+---
+
+### Organização dos arquivos e documentos
+
+O sistema trabalha com organização automática dos documentos, separando arquivos em pastas específicas conforme a etapa do processo, facilitando a conferência e reduzindo retrabalho manual.
+
+---
+
+### Tutoriais técnicos e de usuário
+
+O projeto também conta com tutoriais de apoio, facilitando a manutenção, execução e entendimento do sistema por outros usuários ou desenvolvedores.
 
 ---
 
@@ -75,6 +105,12 @@ Sistema-de-Automacao-do-Ciclo-de-Postagem-de-Processos-Publicos/
 │   ├── Tutoriais/
 │   ├── Autoria.txt
 │   └── Iniciar App.bat
+│
+├── assets/
+│   ├── App ciclo de postagem.png
+│   ├── App ciclo de postagem pastas.png
+│   ├── Pastas.png
+│   └── Tutoriais.png
 │
 ├── README.md
 └── demais arquivos do projeto
@@ -143,7 +179,7 @@ Projeto funcional em ambiente local.
 Melhorias futuras previstas:
 
 * adicionar vídeo demonstrativo;
-* incluir prints da interface;
+* ampliar a galeria de imagens da interface;
 * melhorar documentação técnica;
 * criar exemplos com dados fictícios;
 * organizar estrutura em pastas `src`, `docs`, `assets` e `examples`;
