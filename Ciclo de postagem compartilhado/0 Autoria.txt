@@ -1,0 +1,4 @@
+Sistema Ciclo de Postagem
+Desenvolvido por: Diego Henrique Basilio
+Data da versão: 16/06/2026
+Finalidade: automação do ciclo de postagem de processos.
